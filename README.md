@@ -1,2 +1,3 @@
-# Z03Ga_00M-common-project
-Projet destiné à montrer l'ajout d'un collaborateur
+# Collaboration sur un projet commun
+
+La collaboration peut être réalisée, par exemple, lorsqu'une équipe travaille sur un projet commun. Pour ce faire, l'un des membres ayant accès au projet va ajouter un collaborateur afin que ce dernier puisse contribuer au projet.
